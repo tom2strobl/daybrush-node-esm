@@ -1,0 +1,21 @@
+{
+  "name": "daybrush-node-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./index.jsx"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Strobl (http://thomas-strobl.com/)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@scena/react-guides": "^0.28.2",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.10"
+  }
+}
